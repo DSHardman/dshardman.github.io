@@ -45,7 +45,25 @@
       <link>https://dshardman.github.io/post/robot-talk/</link>
       <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://dshardman.github.io/post/robot-talk/</guid>
-      <description>&lt;p&gt;Markdown content goes here&lt;/p&gt;
+      <description>&lt;p&gt;Link &lt;a href=&#34;https://ukrobotics.libsyn.com/episode-seventeen-bioinspired-robots-learning-from-nature&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research features on Cambridge University&#39;s news website</title>
+      <link>https://dshardman.github.io/post/jelly-press/</link>
+      <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://dshardman.github.io/post/jelly-press/</guid>
+      <description>&lt;p&gt;Link &lt;a href=&#34;https://www.cam.ac.uk/research/news/self-healing-materials-for-robotics-made-from-jelly-and-salt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe
+    width=&#34;640&#34;
+    height=&#34;480&#34;
+    src=&#34;https://www.youtube.com/embed/eVH0YCeI464&#34;
+    frameborder=&#34;0&#34;
+    allow=&#34;autoplay; encrypted-media&#34;
+    allowfullscreen
+&gt;
+&lt;/iframe&gt;
 </description>
     </item>
     
@@ -58,12 +76,20 @@
     </item>
     
     <item>
-      <title>Research features on department website</title>
+      <title>Research features on department&#39;s website</title>
       <link>https://dshardman.github.io/post/water-press/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://dshardman.github.io/post/water-press/</guid>
-      <description>&lt;p&gt;Markdown content goes here&lt;/p&gt;
-&lt;p&gt;Link &lt;a href=&#34;http://www.eng.cam.ac.uk/news/remote-control-floating-objects-solving-complex-fluid-dynamics-problem-ai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Link &lt;a href=&#34;http://www.eng.cam.ac.uk/news/remote-control-floating-objects-solving-complex-fluid-dynamics-problem-ai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe
+    width=&#34;640&#34;
+    height=&#34;480&#34;
+    src=&#34;https://www.youtube.com/embed/2FzWJyX9ieU&#34;
+    frameborder=&#34;0&#34;
+    allow=&#34;autoplay; encrypted-media&#34;
+    allowfullscreen
+&gt;
+&lt;/iframe&gt;
 </description>
     </item>
     
