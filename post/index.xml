@@ -13,11 +13,17 @@
     </image>
     
     <item>
-      <title>Robot Talk Podcast Appearance</title>
+      <title>Robot Talk podcast appearance</title>
       <link>https://dshardman.github.io/post/robot-talk/</link>
       <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://dshardman.github.io/post/robot-talk/</guid>
-      <description>&lt;p&gt;Link &lt;a href=&#34;https://ukrobotics.libsyn.com/episode-seventeen-bioinspired-robots-learning-from-nature&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Episode 17 of UK-RAS&amp;rsquo;s &lt;em&gt;Robot Talk&lt;/em&gt; podcast has just been released, in which I talk with Dr Claire Asher about the pros and cons of integrating our sensorised hydrogel skins into bio-inspired robots. The episode also features the fascinating work of Valentina Lo Gatto and Adrian Thomas.&lt;/p&gt;
+&lt;p&gt;Listen &lt;a href=&#34;https://ukrobotics.libsyn.com/episode-seventeen-bioinspired-robots-learning-from-nature&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;&lt;strong&gt;Bioinspired Robots: learning from nature:&lt;/strong&gt;
+&lt;em&gt;In many areas of robotics, scientists and engineers are taking inspiration from nature in their designs. Bioinspired robotics now encompasses a huge number of different research fields and applications that we’ve discussed before, from sensing to locomotion and from medical to agricultural robotics. This month, I’m chatting to three roboticists who’ve taken a leaf out of nature’s book to develop innovative new robots.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Valentina Lo Gatto is a PhD student in Robotics and Autonomous Systems at the Bristol Robotics Lab, where she is part of the SoftLab and the Morphological Computation Group. The main goal of her research at BRL is to investigate the application of the concepts of Bioinspiration, Soft Robotics and Morphological Computation to space probes design, specifically probes that will need to be able to autonomously explore delicate marine environments such those hidden under the icy surfaces of some of the moons of the outer solar system (e.g., Europa, Enceladus, Ganymede).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;David Hardman is a PhD student in the Bio-Inspired Robotics Lab at the University of Cambridge, where he works on the design and development of soft, flexible sensors and sensing materials. After receiving his MEng in mechanical and materials engineering from Cambridge in 2020, he began focussing on including stretchy, bendy, and compliant sensors into robotic systems, where they function as artificial skins which conform to and sense a robot’s surroundings.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Adrian Thomas is Professor of Biomechanics in the Zoology Department, Oxford University. He founded the Oxford Animal Flight Group in 1996, and led that group until 2015 when he founded his Oxford Spinout company Animal Dynamics. Animal Dynamics works on bio inspired autonomous vehicles and systems, mainly cargo delivery in air or underwater. Animal Dynamics has raised over £20 million from venture capital. Its main product is a large cargo delivery drone &amp;lsquo;Stork&amp;rsquo; capable of carrying 135kg over 400km.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -26,7 +32,9 @@
       <link>https://dshardman.github.io/post/jelly-press/</link>
       <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://dshardman.github.io/post/jelly-press/</guid>
-      <description>&lt;p&gt;Link &lt;a href=&#34;https://www.cam.ac.uk/research/news/self-healing-materials-for-robotics-made-from-jelly-and-salt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;My new paper &amp;ldquo;Self-healing ionic gelatin/glycerol hydrogels for strain sensing applications&amp;rdquo; is featured on Cambridge University&amp;rsquo;s research news following its publication in &lt;em&gt;NPG Asia Materials&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;This work looks at the development, characterisation, and applications of a healable gelatin-based sensor for soft robotics. As seen in the University&amp;rsquo;s promotional video below, it is easy to 3D print or cast into different shapes.&lt;/p&gt;
+&lt;p&gt;Read more &lt;a href=&#34;https://www.cam.ac.uk/research/news/self-healing-materials-for-robotics-made-from-jelly-and-salt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;iframe
     width=&#34;640&#34;
     height=&#34;480&#34;
@@ -44,7 +52,9 @@
       <link>https://dshardman.github.io/post/water-press/</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://dshardman.github.io/post/water-press/</guid>
-      <description>&lt;p&gt;Link &lt;a href=&#34;http://www.eng.cam.ac.uk/news/remote-control-floating-objects-solving-complex-fluid-dynamics-problem-ai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;My recent publication in &lt;em&gt;Scientific Reports&lt;/em&gt; - &amp;ldquo;Manipulation of Free-Floating Objects using Faraday Flows and Deep Reinforcement Learning&amp;rdquo; - has just been featured on Cambridge University Engineering Department&amp;rsquo;s website.&lt;/p&gt;
+&lt;p&gt;Here I looked at how we can control the motion of an object floating on the surface of water &lt;em&gt;without touching it&lt;/em&gt; - instead just vibrating the water to produce waves at a fixed point nearby. Given the difficulty of modelling this problem, we used deep reinforcement learning trained with real-world data to develop the controller.&lt;/p&gt;
+&lt;p&gt;Read more &lt;a href=&#34;http://www.eng.cam.ac.uk/news/remote-control-floating-objects-solving-complex-fluid-dynamics-problem-ai&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, or see the video below.&lt;/p&gt;
 &lt;iframe
     width=&#34;640&#34;
     height=&#34;480&#34;
