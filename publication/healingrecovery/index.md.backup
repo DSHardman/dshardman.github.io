@@ -1,0 +1,37 @@
+---
+abstract: Natural agents display various adaptation strategies to damages, including damage assessment, localization, healing, and recalibration. This work investigates strategies by which a soft electronic skin can similarly preserve its sensitivity after multiple damages, combining material-level healing with software-level adaptation. Being manufactured entirely from self-healing Diels–Alder matrix and composite fibers, the skin is capable of physically recovering from macroscopic damages. However, the simultaneous shifts in sensor fiber signals cannot be modeled using analytical approaches because the materials viscoelasticity and healing processes introduce significant nonlinearities and time-variance into the skin’s response. It is shown that machine learning of five-layer networks after 5000 probes leads to highly sensitive models for touch localization with 2.3 mm position and 95% depth accuracy. Through health monitoring via probing, damage and partial recovery are localized. Although healing is often successful, insufficient recontact leads to limited recovery or complete loss of a fiber. In these cases, complete resampling and retraining recovers the networks’ full performance, regaining sensitivity, and further increasing the system’s robustness. Transfer learning with a single frozen layer provides the ability to rapidly adapt with fewer than 200 probes.
+author_notes:
+- Authors contributed equally
+- Authors contributed equally
+authors:
+- Seppe Terryn
+- admin
+- Thomas George Thuruthel
+- Ellen Roels
+- Fatemeh Sahraeeazartamar
+- Fumiya Iida
+date: "2022-09-01T00:00:00Z"
+doi: 10.1002/aisy.202200115
+featured: true
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
+publication: In *Advanced Intelligent Systems*
+publication_short: In *Adv. Intell. Syst..*
+publication_types:
+- "2"
+publishDate: "2022-09-01T00:00:00Z"
+slides: ""
+summary: Comparing recalibration methods for a sensorised skin which has damaged and healed in multiple locations, affecting the response of the sensor channels. Transfer learning is used to recover the tactile sensitivity as quickly as possible. 
+tags: []
+title: Learning-Based Damage Recovery for Healable Soft Electronic Skins
+url_code: ""
+url_dataset: ""
+url_pdf: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+---
