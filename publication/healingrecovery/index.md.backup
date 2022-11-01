@@ -10,7 +10,7 @@ authors:
 - Ellen Roels
 - Fatemeh Sahraeeazartamar
 - Fumiya Iida
-date: "2022-09-01T00:00:00Z"
+date: "2022-10-31T00:00:00Z"
 doi: 10.1002/aisy.202200115
 featured: true
 image:
@@ -21,14 +21,14 @@ publication: In *Advanced Intelligent Systems*
 publication_short: In *Adv. Intell. Syst..*
 publication_types:
 - "2"
-publishDate: "2022-09-01T00:00:00Z"
+publishDate: "2022-10-31T00:00:00Z"
 slides: ""
 summary: Comparing recalibration methods for a sensorised skin which has damaged and healed in multiple locations, affecting the response of the sensor channels. Transfer learning is used to recover the tactile sensitivity as quickly as possible. 
 tags: []
 title: Learning-Based Damage Recovery for Healable Soft Electronic Skins
-url_code: ""
+url_code: https://github.com/DSHardman/HealedTransfers
 url_dataset: ""
-url_pdf: ""
+url_pdf: https://onlinelibrary.wiley.com/doi/10.1002/aisy.202200115
 url_poster: ""
 url_project: ""
 url_slides: ""
