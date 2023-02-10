@@ -1,0 +1,31 @@
+---
+abstract: Based on real-world interactions in our lives and in the lives of our ancestors, humans have developed a multitude of psychological, social, and reflexive actions for efficient living. We consider the integration of similar behaviours into embodied robots through the design of their sensory systems, evaluating their impact through a novel lens - how magicians exploit these human behaviours in order to fool their spectators into experiencing impossible events. We explore the consequences of designing agents which can experience magic effects, and argue that such design facilities lifelike actions.
+author_notes: ""
+authors:
+- admin
+- Fumiya Iida
+date: "2023-02-07T00:00:00Z"
+doi: ""
+featured: false
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
+publication: In *2023 Embodied Intelligence Workshop Proceedings*
+publication_short: In *EI Workshop 2023*
+publication_types:
+- "1"
+publishDate: "2023-02-07T00:00:00Z"
+slides: ""
+summary: ""
+tags: []
+title: How to Fool Your Robot - Designing Exploitable Sensory Systems
+url_code: ""
+url_dataset: ""
+url_pdf: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+---

@@ -1,0 +1,32 @@
+---
+abstract: As the task-complexities demanded of soft robots continue to increase, so too does the need for soft sensorized skins which can provide complex tactile feedback. Here we consider the detection of asymmetric deformations by designing and validating an easy-to-fabricate hydrogel-silicone composite sensor for deployment in an underactuated soft robotic manipulator. For proprioception and exteroception, this skin can sense asymmetric bifurcations in a stretchable skin without affecting functionality. Our method facilitates the sensor's use in a wide range of soft robotic actuators - we present its ability to respond to repeated, incremental, and oscillating stimuli in the soft manipulator, and demonstrate its ease of integration into a closed-loop control system. We experimentally find the sensors capable of withstanding over 200\% strain before the onset of delamination.
+author_notes: ""
+authors:
+- admin
+- Ryman Hashem
+- Fumiya Iida
+date: "2023-02-10T00:00:00Z"
+doi: ""
+featured: false
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
+publication: In *2023 International Conference on Soft Robotics*
+publication_short: In *Robosoft 2023*
+publication_types:
+- "1"
+publishDate: "2023-02-10T00:00:00Z"
+slides: ""
+summary: ""
+tags: []
+title: Composite Stretchable Sensors for the Detection of Asymmetric Deformations in a Soft Manipulator
+url_code: ""
+url_dataset: ""
+url_pdf: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+---
