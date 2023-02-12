@@ -1,0 +1,33 @@
+---
+abstract: Sensorized hydrogels are attracting tremendous interest in the manufacture of flexible strain sensors due to their impressive responses and tunable mechanical properties. However, many require extensive fabrication processes and hazardous raw materials, making their practical application difficult. Here, we demonstrate how the parameters of mesoscale cellular mesh sensors can be varied to control and tune the response characteristics of a biocompatible gelatin-based hydrogel using a straightforward fabrication process and readily available low-cost materials. An analytical model is derived to validate the experimental results, providing a framework for design and optimization of sensor morphologies. Using this, 40% changes in gauge factor are demonstrated with no change in material properties, indicating that our in-plane cellular structures are a substantial and feasible method to control the sensitivity of flexible and stretchable strain sensors. We use the structures to demonstrate wearable proprioceptive devices, anisotropic bidirectional responses, and localization of a tactile stimulus.
+author_notes: ""
+authors:
+- Naoki Tano
+- Ryman Hashem
+- admin
+- Fumiya Iida
+date: "2023-02-11T00:00:00Z"
+doi: ""
+featured: false
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
+publication: In *2023 International Conference on Soft Robotics*
+publication_short: In *Robosoft 2023*
+publication_types:
+- "1"
+publishDate: "2023-02-11T00:00:00Z"
+slides: ""
+summary: ""
+tags: []
+title: Variable Response Characteristics of a Soft Sensorized Hydrogel using Mesoscale Cellular Structures
+url_code: ""
+url_dataset: ""
+url_pdf: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+---
