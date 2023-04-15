@@ -33,6 +33,40 @@
     </item>
     
     <item>
+      <title>Talks at RoboSoft</title>
+      <link>https://dshardman.github.io/post/robosoft23/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://dshardman.github.io/post/robosoft23/</guid>
+      <description>&lt;p&gt;During the packed and exciting schedule of the 6th IEEE-RAS International Conference on Soft Robotics (RoboSoft 2023), I was invited to give 2 talks and present one poster (even featuring on the conference&amp;rsquo;s twitter feed!).&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Hats off to you, Hardman! Your presentation on Composite Stretchable Sensors for the Detection of Asymmetric Deformations in a Soft Manipulator was absolutely mind-blowing! &lt;a href=&#34;https://twitter.com/hashtag/RoboSoft2023?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#RoboSoft2023&lt;/a&gt; &lt;a href=&#34;https://t.co/pA5PQShuIZ&#34;&gt;pic.twitter.com/pA5PQShuIZ&lt;/a&gt;&lt;/p&gt;&amp;mdash; IEEERoboSoft (@IEEERoboSoft) &lt;a href=&#34;https://twitter.com/IEEERoboSoft/status/1643460895367110656?ref_src=twsrc%5Etfw&#34;&gt;April 5, 2023&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;p&gt;Details of all can be found below.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;Learning-Based Sensing for Soft Applications.&amp;rdquo;&lt;/strong&gt; An invited 20-minute talk in the &lt;em&gt;Modelling Challenges for Soft Robots&lt;/em&gt; workshop.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;Composite Stretchable Sensors for the Detection of Asymmetric Deformations in a Soft Manipulator.&amp;rdquo;&lt;/strong&gt; A 15-minute talk accompanying a paper of the same name being published in the conference proceedings.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;Material-level Sensorization of Hydrogel-based Skins using Data-Driven EIT.&amp;rdquo;&lt;/strong&gt; A poster within the &lt;em&gt;Embodied Intelligence and Soft Robotics&lt;/em&gt; workshop, alongside a flash talk of its content.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;Variable Response Characteristics of a Soft Sensorized Hydrogel using
+Mesoscale Cellular Structures.&amp;rdquo;&lt;/strong&gt; A poster of a paper which I co-authored in the conference proceedings, presented by first author Naoki Tano.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tactile Perception in Hydrogel-based Robotic Skins using Data-Driven Electrical Impedance Tomography</title>
+      <link>https://dshardman.github.io/publication/eitskin/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://dshardman.github.io/publication/eitskin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Upcoming Research Talk</title>
       <link>https://dshardman.github.io/post/john-ray/</link>
       <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>

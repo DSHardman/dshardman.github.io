@@ -1,0 +1,32 @@
+---
+abstract: Combining functional soft materials with electrical impedance tomography is a promising method for developing continuum sensorized soft robotic skins with high resolutions. However, reconstructing the tactile stimuli from surface electrode measurements is a challenging ill-posed modelling problem, with FEM and analytic models facing a reality gap. To counter this, we propose and demonstrate a model-free superposition method which uses small amounts of real-world data to develop deformation maps of a soft robotic skin made from a self-healing ionically conductive hydrogel, the properties of which are affected by temperature, humidity, and damage. We demonstrate how this method outperforms a traditional neural network for small datasets, obtaining an average resolution of 12.1 mm over a 170 mm circular skin. Additionally, we  explore how this resolution varies over a series of 15,000 consecutive presses, during which damages are continuously propagated. Finally, we demonstrate applications for functional robotic skins - damage detection/localization, environmental monitoring, and multi-touch recognition - all using the same sensing material.
+author_notes: ""
+authors:
+- admin
+- Thomas George Thuruthel
+- Fumiya Iida
+date: "2023-03-30T00:00:00Z"
+doi: ""
+featured: true
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
+publication: In *Materials Today Electronics*
+publication_short: In *Mater. Today Electronics*
+publication_types:
+- "2"
+publishDate: "2023-03-30T00:00:00Z"
+slides: ""
+summary: A model-free method for the reconstruction of deformations in a hydrogel skin using electrical impedance tomography. The method can be used for damage detection, environmental monitoring, and multi-touch recognition.
+tags: []
+title: Tactile Perception in Hydrogel-based Robotic Skins using Data-Driven Electrical Impedance Tomography
+url_code: https://github.com/DSHardman/WeightedActivationMaps
+url_dataset: ""
+url_pdf: https://www.sciencedirect.com/science/article/pii/S2772949423000086
+url_poster: uploads/DavidHardman.pdf
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: https://www.sciencedirect.com/science/article/pii/S2772949423000086#sec0010
+---

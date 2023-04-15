@@ -1,0 +1,49 @@
+---
+bio: ''
+education:
+  courses:
+  - course: PhD in Bio-Inspired Robotics
+    institution: University of Cambridge
+    year: 2020-2024
+  - course: MEng in Mechanics, Materials and Design
+    institution: University of Cambridge
+    year: 2019-2020
+  - course: BA in Engineering
+    institution: University of Cambridge
+    year: 2016-2019
+email: "dsh46@cam.ac.uk"
+highlight_name: true
+interests:
+- Soft robotics and mechatronics
+- Medical automation
+- Optimisation of sensorised skins
+- Additive manufacturing
+- ML in large-scale experimentation
+- Self-healing materials
+organizations:
+- name: University of Cambridge
+  url: https://birlab.org/
+role: PhD Student in Robotics
+social:
+- icon: envelope
+  icon_pack: fas
+  link: /#contact
+- icon: graduation-cap
+  icon_pack: fas
+  link: https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&user=Q-jLKSgAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/DSHardman
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/davidshardman/
+superuser: true
+title: David Hardman
+---
+
+I’m a third year PhD student at the [Bio-Inspired Robotics Laboratory](https://birlab.org/), under the supervision of Professor Fumiya Iida. I work on the implementation of unconventional soft materials in robotic systems, with a particular interest in medical applications. I'm also part of the [SHERO project](http://www.sherofet.eu/) for self-healing soft robotics.
+
+In my spare time I enjoy playing badminton and tennis, and I’m a member of the world-famous [Magic Circle](https://themagiccircle.co.uk/).
+
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/DavidHardman.pdf" "newtab" >}}CV{{< /staticref >}}.

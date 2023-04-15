@@ -1,0 +1,32 @@
+---
+abstract: Soft sensing technologies have the potential to revolutionize wearable devices, haptic interfaces and robotic systems. However, there are numerous challenges in the deployment of these devices due to their poor resilience, high energy consumption, and omnidirectional strain responsivity. This work reports the development of a versatile ionic gelatin-glycerol hydrogel for soft sensing applications. The resulting sensing device is inexpensive and easy to manufacture, is self-healable at room temperature, can undergo strains of up to 454%, presents stability over long periods of time, and is biocompatible and biodegradable. This material is ideal for strain sensing applications, with a linear correlation coefficient R^2 = 0.9971 and a pressure-insensitive conduction mechanism. The experimental results show the applicability of ionic hydrogels for wearable devices and soft robotic technologies for strain, humidity, and temperature sensing while being able to partially self-heal at room temperature.
+author_notes: ""
+authors:
+- admin
+- Thomas George Thuruthel
+- Fumiya Iida
+date: "2022-02-18T00:00:00Z"
+doi: ""
+featured: true
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
+publication: In *NPG Asia Materials*
+publication_short: In *NPG Asia Mat.*
+publication_types:
+- "2"
+publishDate: "2022-02-18T00:00:00Z"
+slides: ""
+summary: Development, characterisation, and applications of a healable gelatin-based sensor for soft robotics. 
+tags: []
+title: Self-healing ionic gelatin/glycerol hydrogels for strain sensing applications
+url_code: ""
+url_dataset: ""
+url_pdf: "https://www.nature.com/articles/s41427-022-00357-9"
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: "https://static-content.springer.com/esm/art%3A10.1038%2Fs41427-022-00357-9/MediaObjects/41427_2022_357_MOESM1_ESM.mp4"
+---
