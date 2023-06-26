@@ -1,0 +1,36 @@
+---
+abstract: Tactility in biological organisms is a faculty that relies on a variety of specialized receptors. The bimodal sensorized skin, featured in this study, combines soft resistive composites that attribute the skin with mechano and thermoreceptive capabilities. Mimicking the position of the different natural receptors in different depths of the skin layers, a multi-layer arrangement of the soft resistive composites is achieved. However, the magnitude of the signal response and the localization ability of the stimulus changes with lighter presses of the bimodal skin. Hence, a learning-based approach is employed that can help achieve predictions about the stimulus using 4500 probes. Similar to the cognitive functions in the human brain, the crosstalk of sensory information between the two types of sensory information allows the learning architecture to make more accurate predictions of localization, depth, and temperature of the stimulus contiguously. Localization accuracies of 1.8 mm, depth errors of 0.22 mm, and temperature errors of 8.2 °C using 8 mechanoreceptive and 8 thermoreceptive sensing elements are achieved for the smaller inter-element distances. Combining the bimodal sensing multilayer skins with the neural network learning approach brings the artificial tactile interface one step closer to imitating the sensory capabilities of biological skin.
+author_notes:
+- Authors contributed equally
+- Authors contributed equally
+authors:
+- Antonia Georgopoulou
+- admin
+- Thomas George Thuruthel
+- Fumiya Iida
+- Frank Clemens
+date: "2023-06-05T00:00:00Z"
+doi: 10.1002/advs.202301590
+featured: true
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
+publication: In *Advanced Science*
+publication_short: In *Adv. Sci..*
+publication_types:
+- "2"
+publishDate: ""
+slides: ""
+summary: Mimicking the structure of the human skin by combining surface level thermoreceptors with deeper mechanoreceptors. 
+tags: []
+title: Sensorized Skin with Biomimetic Tactility Features based on Artificial Crosstalk of Bimodal Resistive Sensory Inputs
+url_code: https://github.com/DSHardman/BimodalSkin
+url_dataset: ""
+url_pdf: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+---
