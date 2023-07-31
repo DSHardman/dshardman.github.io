@@ -1,0 +1,34 @@
+---
+abstract: Soft sensing technologies provide a novel alternative for state estimation in wearables and robotic systems. They allow us to capture intrinsic state parameters in a highly conformable manner. However, due to the non-linearities in the materials that make up a soft sensor, it is difficult to develop accurate models of these systems. Consequently, design of these soft sensors is largely user-defined or based on trial and error. Since these sensors conform and take the shape of the sensing body, these issues are further exacerbated when they are installed. This paper presents a framework for the automated design optimization of soft sensors using closed-loop 3D printing of a recyclable hydrogel-based sensing material. Our framework allows direct printing of the sensor on the sensing body using visual feedback, evaluates the sensor performance, and iteratively improves the sensor design. Following preliminary investigations into the material and morphology parameters, this is demonstrated through the optimization of a sensorized glove which can be matched to specific tasks and individual hand shapes. The glove's sensors are tuned to respond only to particular hand poses - including distinguishing between two similar tennis racket grip techniques.
+author_notes:
+authors:
+- Sojiro Sugiura
+- admin
+- Thomas George Thuruthel
+- Yasuhisa Hasegawa
+- Fumiya Iida
+date: "2023-07-31T00:00:00Z"
+doi: ""
+featured: false
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
+publication: In *Advanced Intelligent Systems*
+publication_short: In *Adv. Intell. Syst..*
+publication_types:
+- "2"
+publishDate: "2023-07-31T00:00:00Z"
+slides: ""
+summary: ""
+tags: []
+title: Closed-loop Optimization of Soft Sensor Morphology by Using 3-D Printing of Electrically Conductive Hydrogel
+url_code: ""
+url_dataset: ""
+url_pdf: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+---
