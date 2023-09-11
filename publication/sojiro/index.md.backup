@@ -7,8 +7,8 @@ authors:
 - Thomas George Thuruthel
 - Yasuhisa Hasegawa
 - Fumiya Iida
-date: "2023-07-31T00:00:00Z"
-doi: ""
+date: 2023-09-01T00:00:00Z
+doi: https://doi.org/10.1002/aisy.202300152
 featured: false
 image:
   caption: ''
@@ -18,14 +18,14 @@ publication: In *Advanced Intelligent Systems*
 publication_short: In *Adv. Intell. Syst..*
 publication_types:
 - "2"
-publishDate: "2023-07-31T00:00:00Z"
+publishDate: 2023-09-01T00:00:00Z
 slides: ""
 summary: ""
 tags: []
 title: Closed-loop Optimization of Soft Sensor Morphology by Using 3-D Printing of Electrically Conductive Hydrogel
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: https://onlinelibrary.wiley.com/doi/10.1002/aisy.202300152
 url_poster: ""
 url_project: ""
 url_slides: ""
