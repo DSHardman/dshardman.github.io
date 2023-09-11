@@ -1,0 +1,37 @@
+---
+abstract: The maximum number of damage and healing cycles which can be endured by a self-healing actuator, i.e. its repeatable healability, has never been assessed. One reason for this is because healability was always tested manually. Typically, an operator uses a sharp blade to manually damage the actuator and places both damaged edges back together for them to heal. This process is time-consuming, which explains why only a limited amount of damage and healing cycles have been reported. Moreover, this
+leads to an inaccurate estimation of how repeatable the actuator’s healability is, since manual damage cannot be always performed at the exact same location. Therefore, we present a method to automatically and autonomously assess the repeatable healability of a soft self-healing actuator. It uses a robotic system composed of a damage station and a healing station, which the actuator is automatically moved between using a robotic arm. A sensor integrated inside the actuator is used alongside a dedicated characterisation algorithm to automatically indicate whether the actuator is properly damaged and healed. 
+We present a typical use case of the system, performing and analyzing 63 damage cycles of a self-healing Diels-Alder actuator. After 53 cycles, the actuator will never properly heal again, therefore, we consider this cycle to be the maximum repeatable healability of the tested actuator. The healability of the self-healing Diels-Alder actuator is therefore not infinite experimentally.
+author_notes: ""
+authors:
+- Julie Legrand
+- Arsen Abdulali
+- admin
+- Seppe Terryn
+- Bram Vanderborght
+- Fumiya Iida
+date: "2023-09-01T00:00:00Z"
+doi: ""
+featured: false
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
+publication: In *Robotics Reports*
+publication_short: In *Robotics Reports*
+publication_types:
+- "2"
+publishDate: "2023-09-01T00:00:00Z"
+slides: ""
+summary: ""
+tags: []
+title: Autonomous Testing of the Repeatable Healability of Pneumatic Self-Healing Soft Actuators
+url_code: ""
+url_dataset: ""
+url_pdf: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+---

@@ -9,7 +9,7 @@ authors:
 - Thomas George Thuruthel
 - Fumiya Iida
 - Frank Clemens
-date: "2023-06-05T00:00:00Z"
+date: "2023-09-07T00:00:00Z"
 doi: 10.1002/advs.202301590
 featured: true
 image:
@@ -20,14 +20,14 @@ publication: In *Advanced Science*
 publication_short: In *Adv. Sci..*
 publication_types:
 - "2"
-publishDate: ""
+publishDate: 
 slides: ""
-summary: Mimicking the structure of the human skin by combining surface level thermoreceptors with deeper mechanoreceptors. 
+summary: Mimicking the structure of the human skin by combining surface level thermoreceptors with deeper mechanoreceptors. Tactile stimuli are identified using a feedforward neural network. 
 tags: []
 title: Sensorized Skin with Biomimetic Tactility Features based on Artificial Crosstalk of Bimodal Resistive Sensory Inputs
 url_code: https://github.com/DSHardman/BimodalSkin
 url_dataset: ""
-url_pdf: ""
+url_pdf: https://onlinelibrary.wiley.com/doi/10.1002/advs.202301590
 url_poster: ""
 url_project: ""
 url_slides: ""
