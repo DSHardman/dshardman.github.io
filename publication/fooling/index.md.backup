@@ -4,25 +4,25 @@ author_notes: ""
 authors:
 - admin
 - Fumiya Iida
-date: "2023-02-07T00:00:00Z"
-doi: ""
+date: "2023-11-10T00:00:00Z"
+doi: 10.1088/1757-899X/1292/1/012011
 featured: false
 image:
   caption: ''
   focal_point: ""
   preview_only: false
-publication: In *2023 Embodied Intelligence Workshop Proceedings*
-publication_short: In *EI Workshop 2023*
+publication: In *IOP Conference Series Materials Science and Engineering*
+publication_short: In *IOP Conf. Ser. Mater. Sci. Eng.*
 publication_types:
 - "1"
-publishDate: "2023-02-07T00:00:00Z"
+publishDate: "2023-11-10T00:00:00Z"
 slides: ""
 summary: ""
 tags: []
 title: How to Fool Your Robot - Designing Exploitable Sensory Systems
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: https://iopscience.iop.org/article/10.1088/1757-899X/1292/1/012011
 url_poster: ""
 url_project: ""
 url_slides: ""
