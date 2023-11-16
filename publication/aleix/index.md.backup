@@ -1,0 +1,36 @@
+---
+abstract: Electronic skins (e-skins) aim to replicate the capabilities of human skin by integrating electronic components and advanced materials into a flexible, thin, and stretchable substrate. Electrical impedance tomography (EIT) has recently been adopted in the area of e-skin thanks to its robustness and simplicity of fabrication compared to previous methods. However, the most common EIT configurations have limitations in terms of low sensitivities in areas far from the electrodes. Here we combine two piezoresistive materials with different conductivities and charge carriers, creating anisotropy in the sensitive part of the e-skin. The bottom layer consists of an ionically conducting hydrogel, while the top layer is a self-healing composite that conducts electrons through a percolating carbon black network. By changing the pattern of the top layer, the resulting distribution of currents in the e-skin can be tuned to locally adapt the sensitivity. This approach can be used to biomimetically adjust the sensitivities of different regions of the skin. It was demonstrated how the sensitivity increased by 500% and the localization error reduced by 40% compared to the homogeneous case, eliminating the lower sensitivity regions. This principle enables integrating the various sensing capabilities of our skins into complex 3D geometries. In addition, both layers of the developed e-skin have self-healing capabilities, showing no statistically significant difference in localization performance before the damage and after healing. The self-healing bilayer e-skin could recover full sensing capabilities after healing of severe damage.
+
+author_notes: ""
+authors:
+- Aleix Costa Cornellà
+- admin
+- Leone Costi
+- Joost Brancart
+- Guy Van Assche
+- Fumiya Iida
+date: "2023-11-15T00:00:00Z"
+doi: 10.1038/s41598-023-47036-5
+featured: false
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
+publication: In *Scientific Reports*
+publication_short: In *Sci. Rep.*
+publication_types:
+- "2"
+publishDate: "2023-11-15T00:00:00Z"
+slides: ""
+summary: ""
+tags: []
+title: Variable sensitivity multimaterial robotic e-skin combining electronic and ionic conductivity using electrical impedance tomography
+url_code: "https://github.com/DSHardman/Variable-Sensitivity-E-Skins"
+url_dataset: ""
+url_pdf: "https://www.nature.com/articles/s41598-023-47036-5"
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+---
