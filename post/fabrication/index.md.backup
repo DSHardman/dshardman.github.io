@@ -1,0 +1,31 @@
+---
+authors:
+- admin
+categories: ""
+date: "2024-01-02T00:00:00Z"
+draft: true
+featured: true
+image:
+  caption: ""
+  focal_point: ""
+  placement: 2
+  preview_only: true
+lastmod: "2024-01-02T00:00:00Z"
+projects: []
+subtitle: ""
+summary: "All things bright and buildiful: a page devoted to things I've made during my PhD and beyond."
+tags: ""
+title: Build Page
+---
+
+Academia doesn't tend to focus on whether experimental setups have been ..I make myself feel better about this by devoting a single page... allowed to post\*.
+
+The pictures below are a mix of personal and professional projects, and are *broadly* chronological. I've kept a separate section for projects which weren't just me - whether working in a team or relying in part on files sourced online.
+
+*\*Sadly this excludes*
+
+{{< image-gallery gallery_dir="album" >}}
+
+Team projects
+
+{{< image-gallery gallery_dir="teamalbum" >}}

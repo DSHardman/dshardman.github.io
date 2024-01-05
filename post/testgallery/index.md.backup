@@ -1,0 +1,23 @@
+---
+authors:
+- admin
+categories: ""
+date: "2023-12-18T00:00:00Z"
+draft: false
+featured: false
+image:
+  caption: ""
+  focal_point: ""
+  placement: 2
+  preview_only: true
+lastmod: "2023-12-18T00:00:00Z"
+projects: []
+subtitle: ""
+summary: Gallery test.
+tags: ""
+title: Gallery test
+---
+
+Test test test
+
+{{< image-gallery gallery_dir="\album" >}}
