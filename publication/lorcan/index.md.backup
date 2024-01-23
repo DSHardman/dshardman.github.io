@@ -1,0 +1,35 @@
+---
+abstract: We present a soft gelatin-based hydrogel e-skin capable of detecting up to six simultaneous tactile stimuli, using electrical impedance tomography (EIT) measurements and convolutional neural networks. Our networks are trained on only real-world data, for which we present two custom data-collecting end-effectors. These allow multi-touch responses to be measured quickly and autonomously (up to 8 seconds per datapoint), giving datasets more than 10x larger than those existing in the literature. To demonstrate the benefits of this approach, we train a non-homogeneous skin to predict `macro-braille' patterns in a 3x2 grid, achieving a 89\% classification accuracy.
+
+author_notes:
+- Authors contributed equally
+- Authors contributed equally
+authors:
+- Lorcan Nicholls
+- admin
+- Fumiya Iida
+date: "2024-01-18T00:00:00Z"
+doi: ""
+featured: false
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
+publication: In *2024 International Conference on Soft Robotics*
+publication_short: In *Robosoft 2024*
+publication_types:
+- "1"
+publishDate: "2024-01-18T00:00:00Z"
+slides: ""
+summary: ""
+tags: []
+title: Multi-touch Recognition of Hydroge-based E-skins using Real-world EIT Datasets
+url_code: ""
+url_dataset: ""
+url_pdf: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+---
