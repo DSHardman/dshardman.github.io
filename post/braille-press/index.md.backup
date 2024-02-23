@@ -1,0 +1,34 @@
+---
+authors:
+- admin
+categories: ""
+date: "2024-01-29T00:00:00Z"
+draft: false
+featured: false
+image:
+  caption: ""
+  focal_point: ""
+  placement: 2
+  preview_only: true
+lastmod: "2024-01-29T00:00:00Z"
+projects: []
+subtitle: ""
+summary: Our recent paper "High-Speed Tactile Braille Reading via Biomimetic Sliding Interactions" is promoted by Cambridge University after its publication in IEEE Robotics and Automation Letters.
+tags: ""
+title: Braille-reading robot features on Cambridge University's website
+---
+
+Our new paper "High-Speed Tactile Braille Reading via Biomimetic Sliding Interactions" is featured on Cambridge University's research news following its publication in *IEEE Robotics and Automation Letters*.
+
+This work looks at the ways we can use vision-based tactile sensors to interact continuously with the world around us. Braille is an excellent testing ground: whilst it is possible to read each letter one-by-one, it's much quicker to use a continuous sliding motion like humans do!
+
+Read more [here](https://www.cam.ac.uk/research/news/robot-trained-to-read-braille-at-twice-the-speed-of-humans).
+<iframe
+    width="640"
+    height="480"
+    src="https://www.youtube.com/watch?v=xqtA2Z668Ic"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>

@@ -27,6 +27,26 @@
     </item>
     
     <item>
+      <title>Braille-reading robot features on Cambridge University&#39;s website</title>
+      <link>https://dshardman.github.io/post/braille-press/</link>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://dshardman.github.io/post/braille-press/</guid>
+      <description>&lt;p&gt;Our new paper &amp;ldquo;High-Speed Tactile Braille Reading via Biomimetic Sliding Interactions&amp;rdquo; is featured on Cambridge University&amp;rsquo;s research news following its publication in &lt;em&gt;IEEE Robotics and Automation Letters&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;This work looks at the ways we can use vision-based tactile sensors to interact continuously with the world around us. Braille is an excellent testing ground: whilst it is possible to read each letter one-by-one, it&amp;rsquo;s much quicker to use a continuous sliding motion like humans do!&lt;/p&gt;
+&lt;p&gt;Read more &lt;a href=&#34;https://www.cam.ac.uk/research/news/robot-trained-to-read-braille-at-twice-the-speed-of-humans&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe
+    width=&#34;640&#34;
+    height=&#34;480&#34;
+    src=&#34;https://www.youtube.com/embed/xqtA2Z668Ic&#34;
+    frameborder=&#34;0&#34;
+    allow=&#34;autoplay; encrypted-media&#34;
+    allowfullscreen
+&gt;
+&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
       <title>CSAR 2023 Award</title>
       <link>https://dshardman.github.io/post/csar/</link>
       <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>

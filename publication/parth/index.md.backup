@@ -1,5 +1,5 @@
 ---
-abstract: Most braille-reading robotic sensors employ a discrete letter-by-letter reading strategy, despite the higher potential speeds of a biomimetic sliding approach. We propose a complete pipeline for continuous braille reading: frames are dynamically collected with a vision-based tactile sensor; an autoencoder removes motion-blurring artefacts; a lightweight YOLO v8 model classifies the braille characters; and a data-driven consolidation stage minimizes errors in the predicted string. We demonstrate a state-of-the-art speed of 315 words per minute at 87.5\% accuracy, more than twice the speed of human braille reading. Whilst demonstrated on braille, this biomimetic sliding approach can be further employed for richer dynamic spatial and temporal detection of surface textures, and we consider the challenges which must be addressed in its development.
+abstract: Most braille-reading robotic sensors employ a discrete letter-by-letter reading strategy, despite the higher potential speeds of a biomimetic sliding approach. We propose a complete pipeline for continuous braille reading - frames are dynamically collected with a vision-based tactile sensor; an autoencoder removes motion-blurring artefacts; a lightweight YOLO v8 model classifies the braille characters; and a data-driven consolidation stage minimizes errors in the predicted string. We demonstrate a state-of-the-art speed of 315 words per minute at 87.5\% accuracy, more than twice the speed of human braille reading. Whilst demonstrated on braille, this biomimetic sliding approach can be further employed for richer dynamic spatial and temporal detection of surface textures, and we consider the challenges which must be addressed in its development.
 author_notes: ""
 authors:
 - Parth Potdar
@@ -24,10 +24,10 @@ tags: []
 title: High-Speed Tactile Braille Reading via Biomimetic Sliding Interactions
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: https://ieeexplore.ieee.org/document/10410896
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
-url_video: ""
+url_video: https://www.cam.ac.uk/research/news/robot-trained-to-read-braille-at-twice-the-speed-of-humans
 ---
