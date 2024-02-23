@@ -1,0 +1,24 @@
+---
+authors:
+- admin
+categories: ""
+date: "2024-02-19T00:00:00Z"
+draft: false
+featured: false
+image:
+  caption: ""
+  focal_point: ""
+  placement: 2
+  preview_only: false
+lastmod: "2024-02-19T00:00:00Z"
+projects: []
+subtitle: ""
+summary: "I'll be presenting my work at the STEM for BRITAIN final in the Houses of Parliament on Monday 4th March."
+tags: ""
+title: STEM for BRITAIN Finalist
+---
+
+{{< youtube SaX3ktDTWP0 >}}
+
+
+See my poster {{< staticref "uploads/STEMForBritain.pdf" "newtab" >}}here{{< /staticref >}}.
