@@ -2,23 +2,21 @@
 authors:
 - admin
 categories: ""
-date: "2024-02-19T00:00:00Z"
+date: "2024-03-19T00:00:00Z"
 draft: false
 featured: false
 image:
   caption: ""
   focal_point: ""
   placement: 2
-  preview_only: true
-lastmod: "2024-02-19T00:00:00Z"
+  preview_only: false
+lastmod: "2024-03-19T00:00:00Z"
 projects: []
 subtitle: ""
-summary: "I'll be presenting my work at the STEM for BRITAIN final in the Houses of Parliament on Monday 4th March."
+summary: "On Monday 4th March I presented my work at the STEM for BRITAIN final in the Houses of Parliament."
 tags: ""
 title: STEM for BRITAIN Finalist
 ---
+On Monday 4th March I presented my work at the STEM for BRITAIN final in the Houses of Parliament. See my poster via {{< staticref "uploads/STEMForBritain.pdf" "newtab" >}}this link{{< /staticref >}}, or find out more about the event [here](https://stemforbritain.org.uk/).
 
 {{< youtube SaX3ktDTWP0 >}}
-
-
-See my poster {{< staticref "uploads/STEMForBritain.pdf" "newtab" >}}here{{< /staticref >}}.
