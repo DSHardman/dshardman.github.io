@@ -1,7 +1,5 @@
 ---
-abstract: Punctures and surface damage can be catastrophic for soft robotic systems. Inspired by the self-sealing deformations of plants and the anisotropic distribution of collagen in the human skin's dermis, we present a dual-layer skin with controllable wound closure. Anisotropic elastomer channels are used to tune the directionality of the skin's mechanical stiffness, whilst an outermost hydrogel layer grows and shrinks as humidity is varied, generating stresses which close and open the wounds.
-
-We demonstrate and characterize the core principles of both mechanisms, before exploring the effects of composite parameters and morphologies. Repeatable and precise damage is inflicted using a CNC scalpel blade. Finally, we demonstrate the use of these mechanisms to seal scalpel cuts on an artificial hand, immediately restoring electrical channels broken by the wound.
+abstract: Punctures and surface damage can be catastrophic for soft robotic systems. Inspired by the self-sealing deformations of plants and the anisotropic distribution of collagen in the human skin's dermis, we present a dual-layer skin with controllable wound closure. Anisotropic elastomer channels are used to tune the directionality of the skin's mechanical stiffness, whilst an outermost hydrogel layer grows and shrinks as humidity is varied, generating stresses which close and open the wounds. We demonstrate and characterize the core principles of both mechanisms, before exploring the effects of composite parameters and morphologies. Repeatable and precise damage is inflicted using a CNC scalpel blade. Finally, we demonstrate the use of these mechanisms to seal scalpel cuts on an artificial hand, immediately restoring electrical channels broken by the wound.
 author_notes: ""
 authors:
 - admin
@@ -24,7 +22,7 @@ tags: []
 title: Controllable Wound Closure in Artificial Skins using Dual-Layer Bioinspired Mechanism
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: https://ieeexplore.ieee.org/document/10521963
 url_poster: ""
 url_project: ""
 url_slides: ""
