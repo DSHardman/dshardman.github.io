@@ -23,7 +23,7 @@ interests:
 organizations:
 - name: University of Cambridge
   url: https://birlab.org/
-role: PhD Student in Robotics
+role: Robotics JRF
 social:
 - icon: envelope
   icon_pack: fas
@@ -41,11 +41,14 @@ superuser: true
 title: David Hardman
 ---
 
-I’m in my final year of a PhD at Cambridge's [Bio-Inspired Robotics Laboratory](https://birlab.org/), building tactile sensors and artificial skins. Over the Summer of 2024, I am a visiting researcher at EPFL's [CREATE Lab](https://www.epfl.ch/labs/create/). 
+I'm a [Junior Research Fellow](https://en.wikipedia.org/wiki/Junior_Research_Fellowships) (JRF) at [Fitzwilliam College, Cambridge](https://www.fitz.cam.ac.uk/). Most of my days are spent building tactile sensors and artificial skins in Cambridge's [Bio-Inspired Robotics Laboratory](https://birlab.org/), where I hold an [EPSRC Doctoral Prize Fellowship](https://www.ukri.org/what-we-do/developing-people-and-skills/epsrc/studentships/flexibility-for-funders/epsrc-doctoral-prize/).
 
-I was part of the Horizon 2020 SHERO for self-healing robotics, and the Samsung Global Research Outreach project on tactile perception.
+During my PhD I also worked as a visiting researcher in EPFL's [CREATE Lab](https://www.epfl.ch/labs/create/), and in [TTP](https://www.ttp.com/industries/healthcare/)'s surgical team. 
 
 In my spare time I enjoy playing badminton and tennis, and I’m a member of the world-famous [Magic Circle](https://themagiccircle.co.uk/).
 
-
+<!---
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/DavidHardman.pdf" "newtab" >}}CV{{< /staticref >}}.
+
+I was part of the Horizon 2020 SHERO Project for self-healing robotics, and the Samsung Global Research Outreach project on tactile perception.
+-->

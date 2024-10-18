@@ -22,13 +22,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Junior Research Fellow
+    company: Fitzwilliam College
+    company_url: 'https://www.fitz.cam.ac.uk/'
+    company_logo: org-fitz
+    location: Cambridge
+    date_start: '2024-10-01'
+    date_end: ''
+    description: ""
+
+  - title: EPSRC Doctoral Prize Fellow
+    company: Bio-Inspired Robotics Laboratory
+    company_url: 'https://birlab.org/'
+    company_logo: org-birl
+    location: University of Cambridge
+    date_start: '2024-10-01'
+    date_end: ''
+    description: ""
+
   - title: Visiting Researcher
-    company: CREATE Lab
+    company: Computational Robot Design & Fabrication Lab
     company_url: 'https://www.epfl.ch/labs/create/'
     company_logo: org-epfl
     location: EPFL
     date_start: '2024-06-24'
-    date_end: ''
+    date_end: '2024-09-13'
     description: ""
 
   - title: PhD Student
@@ -37,7 +56,7 @@ experience:
     company_logo: org-birl
     location: University of Cambridge
     date_start: '2020-10-01'
-    date_end: ''
+    date_end: '2024-06-04'
     description: ""
 
   - title: Consultant (Health Tech)
