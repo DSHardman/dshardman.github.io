@@ -9,8 +9,8 @@ image:
   caption: ""
   focal_point: ""
   placement: 2
-  preview_only: true
-lastmod: "2023-06-25T00:00:00Z"
+  preview_only: false
+lastmod: "2024-12-16T00:00:00Z"
 projects: []
 subtitle: ""
 summary: I'm delighted to have been selected as a winner of the 2023 PhD award by the Cambridge Society for the Application of Research.
@@ -18,7 +18,19 @@ tags: ""
 title: CSAR 2023 Award
 ---
 
+**June 2024 update:** On 10th June 2024 I gave a presentation of my work at a meeting of the society. A recording of this talk can be found at the bottom of this page.
+
+**Original post:**
 In a ceremony on 19th June I was one of twelve recipients of the CSAR 2023 PhD student award, awarded *"in recognition of outstanding research and potential with real world application"*.
 
 My work was selected from more than 160 applications by the Cambridge Society for the Application of Research. More information and the list of 2023 winners can be found [on the CSAR website](https://www.csar.org.uk/student-awards/2023/).
 
+<iframe
+	width="1038"
+	height="584"
+	src="https://www.youtube.com/embed/mWAtrvey5js"
+	frameborder="0"
+	allow="autoplay; encrypted-media"
+	allowfullscreen
+>
+</iframe>
