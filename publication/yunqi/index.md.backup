@@ -1,0 +1,35 @@
+---
+abstract: The ability to estimate contact information is becoming increasingly relevant for robotic applications. Consequently, there is a growing need for technologies that can provide dense and distributed contact information in a compact form factor. This work presents the design and modeling of a thin-form-factor tactile skin based on electrical impedance tomography measurements. This technology enables the creation of tactile skins of arbitrary size without requiring any embedded electronic components. We demonstrate how patterning these 3D-printed skins can improve the accuracy and precision of contact localization and force estimation. A comprehensive framework for the automatic fabrication and calibration of tactile skins is presented, paving the way for customizable soft tactile skins. 
+
+author_notes:
+authors:
+- Yunqi Huang
+- admin
+- Christopher Bascucci
+- Frank Clemens
+- Thomas George Thuruthel
+date: "2025-01-06T00:00:00Z"
+doi: ""
+featured: false
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
+publication: In *2025 International Conference on Soft Robotics*
+publication_short: In *Robosoft 2025*
+publication_types:
+- "1"
+publishDate: "2024-01-06T00:00:00Z"
+slides: ""
+summary: ""
+tags: []
+title: Design and Modelling of Electrical Impedance Tomography-based 3D-Printed Patterned Soft Tactile Skins
+url_code: ""
+url_dataset: ""
+url_pdf: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+---
