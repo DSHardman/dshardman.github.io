@@ -14,9 +14,8 @@ education:
 email: "dsh46@cam.ac.uk"
 highlight_name: true
 interests:
-- Soft robotics and mechatronics
-- Tactile perception
-- Sensorised skins
+- Mechatronics \& soft robotics
+- Tactile perception \& artificial skins
 - Medical automation
 - Additive manufacturing
 - Large-scale experimentation
