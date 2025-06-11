@@ -1,5 +1,5 @@
 ---
-abstract: tbc
+abstract: The human skin can reliably capture a wide range of multimodal data over a large surface while providing a soft interface. Artificial technologies using MEMS can emulate these biological functions but present numerous challenges in fabrication, delamination due to soft-rigid interfaces, and electrical interference. To address these difficulties, we present a single layer multimodal sensory skin made using only a highly sensitive hydrogel membrane. Using electrical impedance tomography techniques, we access up to 863,040 conductive pathways across the membrane, allowing us to identify at least six distinct types of multimodal stimuli, including human touch, damage, multipoint insulated presses, and local heating. Through comprehensive physical testing, we demonstrate that the highly redundant and coupled sensory information from these pathways can be structured using data-driven techniques, selecting which pathways should be monitored for efficient multimodal perception. To demonstrate our approach's versatility, we cast the hydrogel into the shape and size of an adult human hand. Using our information structuring strategy, we demonstrate the hand's ability to predict environmental conditions, localize human touch, and generate proprioceptive data. Our framework addresses the challenge of physically extracting meaningful information in multimodal soft sensing, opening new directions for the information-led design of single layer skins in sensitive systems. 
 author_notes: ""
 authors:
 - admin
@@ -12,21 +12,21 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-publication: In *Science Robotics* (In press)
-publication_short: In *Sci. Robot.* (In press)
+publication: In *Science Robotics*
+publication_short: In *Sci. Robot.*
 publication_types:
 - "2"
 publishDate: ""
 slides: ""
-summary: ""
+summary: We sensorize the surface of a 
 tags: []
-title: Multimodal Information Structuring using Single Layer Soft Sensory Skins and High-Density Electrical Impedance Tomography
-url_code: ""
+title: Multimodal Information Structuring with Single Layer Soft Skins and High-Density Electrical Impedance Tomography
+url_code: https://github.com/DSHardman/InfoStructuring
 url_dataset: ""
 url_pdf: ""
-url_poster: ""
+url_poster: uploads/Hand_poster.pdf
 url_project: ""
 url_slides: ""
 url_source: ""
-url_video: ""
+url_video: https://youtu.be/9U0hoCL0aJ4
 ---

@@ -5,12 +5,20 @@
     <link>https://dshardman.github.io/publication/</link>
       <atom:link href="https://dshardman.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dshardman.github.io/media/icon_hu9d558420c7118401edbc78d30d177da6_214587_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://dshardman.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Multimodal Information Structuring with Single Layer Soft Skins and High-Density Electrical Impedance Tomography</title>
+      <link>https://dshardman.github.io/publication/scirohand/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://dshardman.github.io/publication/scirohand/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Design and Modelling of Electrical Impedance Tomography-based 3D-Printed Patterned Soft Tactile Skins</title>
