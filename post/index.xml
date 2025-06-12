@@ -5,12 +5,22 @@
     <link>https://dshardman.github.io/post/</link>
       <atom:link href="https://dshardman.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dshardman.github.io/media/icon_hu9d558420c7118401edbc78d30d177da6_214587_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://dshardman.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>New work published in Science Robotics</title>
+      <link>https://dshardman.github.io/post/sciencerobotics/</link>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://dshardman.github.io/post/sciencerobotics/</guid>
+      <description>&lt;iframe width=&#34;1039&#34; height=&#34;584&#34; src=&#34;https://www.youtube.com/embed/9U0hoCL0aJ4&#34; title=&#34;Multimodal Information Structuring with Single Layer Soft Skins and High-Density EIT&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;Read more &lt;a href=&#34;https://www.cam.ac.uk/stories/robotic-skin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;on the University website&lt;/a&gt;, or find useful external links on the &lt;a href=&#34;https://www.dshardman.co.uk/publication/scirohand/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;publication page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>RoboSoft 2025</title>
