@@ -5,7 +5,7 @@ authors:
 - admin
 - Thomas George Thuruthel
 - Fumiya Iida
-date: 2025-04-16T00:00:00Z
+date: 2025-06-11T00:00:00Z
 doi: ""
 featured: true
 image:
@@ -16,9 +16,9 @@ publication: In *Science Robotics*
 publication_short: In *Sci. Robot.*
 publication_types:
 - "2"
-publishDate: ""
+publishDate: 2025-06-11T00:00:00Z
 slides: ""
-summary: We sensorize the surface of a 
+summary: We sensorize the surface of a 3D human-sized hand using a single material, and demonstrate its ability to monitor multimodal stimuli.
 tags: []
 title: Multimodal Information Structuring with Single Layer Soft Skins and High-Density Electrical Impedance Tomography
 url_code: https://github.com/DSHardman/InfoStructuring
