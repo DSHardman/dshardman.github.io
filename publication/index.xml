@@ -5,12 +5,20 @@
     <link>https://dshardman.github.io/publication/</link>
       <atom:link href="https://dshardman.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dshardman.github.io/media/icon_hu9d558420c7118401edbc78d30d177da6_214587_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://dshardman.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>A Survey on Soft Robot Adaptability - Implementations, Applications, and Prospects</title>
+      <link>https://dshardman.github.io/publication/adaptability/</link>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://dshardman.github.io/publication/adaptability/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>In-Situ Classification of Soil Types Exploiting Electrical Impedance Tomography with a Robotic Actuating Probe</title>
