@@ -1,6 +1,6 @@
 ---
-abstract: 
-author_notes:
+abstract: ""
+author_notes: ""
 authors:
 - admin
 - Benhui Dai
@@ -21,7 +21,7 @@ publication_types:
 - "2"
 publishDate: ""
 slides: ""
-summary: ""
+summary: Coming soon: in press.
 tags: []
 title: Automated Benchmarking of Variable-Property Soft Robotic Fingertips to Enable Task-Optimized Sensor Selection
 url_code: ""
