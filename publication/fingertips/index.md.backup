@@ -1,5 +1,5 @@
 ---
-abstract: ""
+abstract: Tactile fingertips are a vital component of biological dexterity, where they convey information from the environment through our sensory systems. Similarly, sensorized robotic fingertips are needed to unlock robotic dexterity, versatility, and diverse interactions, which remain significant interdisciplinary challenges. This potential means that hundreds of materials, transducers, and geometries are being developed for soft robotic sensing, but there are very few ways by which they can be compared - a lack of characterizations of the rich interplay between different sensor morphologies, form factors, sensing technologies, material softnesses, and viscosities means that the full solution space is rarely explored. In this work, 15 identically-shaped robotic fingertips are benchmarked by a fully automated system, covering eight different materials and six broadly-ranging sensing mechanisms. Diverse mechanical and sensory datasets are collected over a 30 min runtime, designed around five task-optimized characterization axes. Among these, findings include sensitivities to forces below 0.1 N, ninefold increases in response to human touches, and 0.88 mm localization across a single-material soft 3D fingertip using electrical impedance tomography. Optimizable tasks are demonstrated via self-configuration of a two-finger robotic gripper. The self-configurable pipeline also enables autonomous adaptability - how robotic manipulators can be optimized over task, environmental, and lifetime timescales is discussed.
 author_notes: ""
 authors:
 - admin
@@ -8,28 +8,28 @@ authors:
 - Antonia Georgopoulou
 - Fumiya Iida
 - Josie Hughes
-date: 2025-07-29T00:00:00Z
+date: 2025-08-20T00:00:00Z
 doi: ""
 featured: true
 image:
   caption: ''
   focal_point: ""
   preview_only: false
-publication: In *Advanced Science* (in press)
-publication_short: In *Adv. Sci..* (in press)
+publication: In *Advanced Science*
+publication_short: In *Adv. Sci..*
 publication_types:
 - "2"
-publishDate: ""
+publishDate: 2025-08-20
 slides: ""
-summary: Coming soon: in press.
+summary: 15 identically-shaped robotic fingertips are benchmarked by a fully automated toolchange system, covering eight different materials and six broadly-ranging sensing mechanisms.
 tags: []
 title: Automated Benchmarking of Variable-Property Soft Robotic Fingertips to Enable Task-Optimized Sensor Selection
 url_code: ""
-url_dataset: ""
-url_pdf: 
+url_dataset: https://github.com/DSHardman/BenchmarkFingertips
+url_pdf: https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202509991
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
-url_video: ""
+url_video: uploads/S1.mp4
 ---

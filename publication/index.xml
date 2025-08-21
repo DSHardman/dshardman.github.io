@@ -5,7 +5,7 @@
     <link>https://dshardman.github.io/publication/</link>
       <atom:link href="https://dshardman.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dshardman.github.io/media/icon_hu9d558420c7118401edbc78d30d177da6_214587_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Soft Shear Sensing of Robotic Twisting Tasks using Reduced-Order Conductivity Modelling</title>
-      <link>https://dshardman.github.io/publication/dhruv/</link>
-      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://dshardman.github.io/publication/dhruv/</guid>
+      <title>Automated Benchmarking of Variable-Property Soft Robotic Fingertips to Enable Task-Optimized Sensor Selection</title>
+      <link>https://dshardman.github.io/publication/fingertips/</link>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://dshardman.github.io/publication/fingertips/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Automated Benchmarking of Variable-Property Soft Robotic Fingertips to Enable Task-Optimized Sensor Selection</title>
-      <link>https://dshardman.github.io/publication/fingertips/</link>
-      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://dshardman.github.io/publication/fingertips/</guid>
+      <title>Soft Shear Sensing of Robotic Twisting Tasks using Reduced-Order Conductivity Modelling</title>
+      <link>https://dshardman.github.io/publication/dhruv/</link>
+      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://dshardman.github.io/publication/dhruv/</guid>
       <description></description>
     </item>
     
