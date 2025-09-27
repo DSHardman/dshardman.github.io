@@ -1,0 +1,33 @@
+---
+abstract: Sensing the deformation of soft robots is vital for effective control and interaction with the environment. Electrical impedance tomography (EIT) enables such sensing by monitoring changes in conductivity, but its sensitivity is often highest near the electrodes, limiting performance for distant deformations. Existing strategies to address this limitation typically rely on introducing conductive material heterogeneities, such as anisotropic or patterned conductors, to redirect current flow. In this work, a fundamentally different approach is presented - utilizing a dielectric guide to manipulate the electric field within the conductive body. This method leverages widely used soft robotic materials, such as silicone, in a new role as a passive electric field guide, allowing reconfiguration of sensitivity distributions without embedding conductive components. Physical experiments with a conductive hydrogel cylinder show that the dielectric guide increases deformation sensing accuracy by 21%, reduces sensitivity to noise, and enables a reduction in the number of required EIT channels. This work establishes dielectric-based field manipulation as a novel design strategy for high-fidelity, low-interference proprioception in soft robotics.
+author_notes: ""
+authors:
+- Arsen Abdulali
+- admin
+- Yue Xie
+- Fumiya Iida
+date: 2025-09-26T00:00:00Z
+doi: https://doi.org/10.1002/aelm.202500365
+featured: false
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
+publication: In *Advanced Electronic Materials*
+publication_short: In *Adv. Electron. Mater.*
+publication_types:
+- "2"
+publishDate: 2025-09-26T00:00:00Z
+slides: ""
+summary: ""
+tags: []
+title: Closed-loop Optimization of Soft Sensor Morphology by Using 3-D Printing of Electrically Conductive Hydrogel
+url_code: ""
+url_dataset: ""
+url_pdf: https://onlinelibrary.wiley.com/doi/10.1002/aisy.202300152
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: uploads/sojiroglove.mp4
+---
