@@ -5,12 +5,28 @@
     <link>https://dshardman.github.io/</link>
       <atom:link href="https://dshardman.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Dr David Hardman</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dshardman.github.io/media/icon_hu9d558420c7118401edbc78d30d177da6_214587_512x512_fill_lanczos_center_3.png</url>
       <title>Dr David Hardman</title>
       <link>https://dshardman.github.io/</link>
     </image>
+    
+    <item>
+      <title>The Language of Deformation - Semantic Failure Analysis as a Prerequisite for Dexterous Manipulation of Deformable Objects</title>
+      <link>https://dshardman.github.io/publication/deformation/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://dshardman.github.io/publication/deformation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In-Situ Classification of Soil Types Exploiting Electrical Impedance Tomography with a Robotic Actuating Probe</title>
+      <link>https://dshardman.github.io/publication/soil/</link>
+      <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://dshardman.github.io/publication/soil/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Enhancing Electrical Impedance Based Deformation Sensing with Dielectric Current Guide</title>
@@ -41,14 +57,6 @@
       <link>https://dshardman.github.io/publication/adaptability/</link>
       <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://dshardman.github.io/publication/adaptability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>In-Situ Classification of Soil Types Exploiting Electrical Impedance Tomography with a Robotic Actuating Probe</title>
-      <link>https://dshardman.github.io/publication/soil/</link>
-      <pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://dshardman.github.io/publication/soil/</guid>
       <description></description>
     </item>
     
@@ -192,7 +200,7 @@
     <item>
       <title>STEM for BRITAIN Finalist</title>
       <link>https://dshardman.github.io/post/stemforbritain/</link>
-      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://dshardman.github.io/post/stemforbritain/</guid>
       <description>&lt;p&gt;On Monday 4th March I presented my work at the STEM for BRITAIN final in the Houses of Parliament. See my poster via &lt;a href=&#34;https://dshardman.github.io/uploads/STEMForBritain.pdf&#34; target=&#34;_blank&#34;&gt;this link&lt;/a&gt;, or find out more about the event &lt;a href=&#34;https://stemforbritain.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
