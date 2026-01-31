@@ -5,12 +5,20 @@
     <link>https://dshardman.github.io/publication-type/1/</link>
       <atom:link href="https://dshardman.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dshardman.github.io/media/icon_hu9d558420c7118401edbc78d30d177da6_214587_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://dshardman.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Touch with Insight - Physics-Aware Data-Driven Learning for EIT-Based Tactile Sensing</title>
+      <link>https://dshardman.github.io/publication/touchinsight/</link>
+      <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://dshardman.github.io/publication/touchinsight/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Language of Deformation - Semantic Failure Analysis as a Prerequisite for Dexterous Manipulation of Deformable Objects</title>
