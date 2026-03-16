@@ -1,5 +1,5 @@
 ---
-abstract: ""
+abstract: As new tactile technologies continually aim to improve the perceptive capabilities of humanoid systems, multiplexed monitoring methods—particularly those using electrical impedance tomography (EIT) hardware—are rapidly gaining popularity in soft robotics. Notably, their potential for system-level adaptability is promising: by multiplexing between different electrodes, the amount and type of information being generated can be altered in real time, balancing accuracy and speed requirements across new environments and tasks. To solidify this approach, we introduce an approach—Economy-of-Touch—which poses tactile sensing as an information-budgeting problem, enabling operating points to be identified across different tasks. We first propose a three-part method of quantifying task complexity, grounded in image-based similarity measures (normalized cross-correlation, Chamfer distance, and edge-based convex hulls) which capture both visual similarity and spatial distribution of the tactile stimuli. Validating our approach with thousands of real-world EIT experiments, we then derive a task-agnostic mapping between this complexity and the required amount of information: the task's operating point. Three tactile tasks (localization, classification, and pattern recognition) are evaluated with real-world experiments, across which we demonstrate operating point MAEs as low as 0.659 channels for previously unseen data.
 author_notes: ""
 authors:
 - Xiaoxian Xu
@@ -12,21 +12,21 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
-publication: In *Advanced Intelligent Systems* (accepted)
-publication_short: In *Adv. Intell. Syst.* (accepted)
+publication: In *Advanced Intelligent Systems*
+publication_short: In *Adv. Intell. Syst.*
 publication_types:
 - "2"
-publishDate: 2026-02-06T00:00:00Z
+publishDate: 2026-03-16T00:00:00Z
 slides: ""
 summary: ""
 tags: []
-title: Closed-loop Optimization of Soft Sensor Morphology by Using 3-D Printing of Electrically Conductive Hydrogel
+title: Economy of Touch - Task-Driven Information Selection in Tactile EIT-based Robotic Sensing
 url_code: ""
 url_dataset: ""
-url_pdf: https://onlinelibrary.wiley.com/doi/10.1002/aisy.202300152
+url_pdf: https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202501493
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
-url_video: uploads/sojiroglove.mp4
+url_video: ""
 ---
