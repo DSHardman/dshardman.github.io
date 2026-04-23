@@ -13,20 +13,32 @@
     </image>
     
     <item>
-      <title>Spring Talks Roundup</title>
-      <link>https://dshardman.github.io/post/springtalks/</link>
+      <title>Recent Talks Roundup</title>
+      <link>https://dshardman.github.io/post/talkroundup/</link>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://dshardman.github.io/post/springtalks/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve recently been lucky enough to travel to some fascinating places and arrange events, give invited talks, and participate in panel discussions. Some details and pictures are gathered below: a heartfelt thanks to &lt;em&gt;all&lt;/em&gt; of the organisers who have made this possible!&lt;/p&gt;
+      <guid>https://dshardman.github.io/post/talkroundup/</guid>
+      <description>&lt;p&gt;Since last posting, I&amp;rsquo;ve been lucky enough to travel to many fascinating places - arranging events, giving invited talks, and participating in panel discussions. Some details and pictures are gathered below: a heartfelt thanks to &lt;em&gt;all&lt;/em&gt; of the organisers who have made this possible!&lt;/p&gt;
 &lt;p&gt;April 2026 has already involved events at &lt;a href=&#34;https://www.robosoft2026.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robosoft 2026&lt;/a&gt;, Kanazawa, and Tokyo, where I:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Gave an invited talk and joined a panel discussion on Monolithic Soft Systems in Robotics.&lt;/li&gt;
 &lt;li&gt;Gave an invited talk on non-contact object manipulation in a workshop &amp;ldquo;&lt;em&gt;Exploiting Fluids and Embodied Intelligence in Soft Robotics.&lt;/em&gt;&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;Helped to organise a new workshop: &amp;ldquo;&lt;em&gt;Electrical Impedance Tomography-Based Tactile Sensing: Bridging Soft Robotics and Artificial Touch&lt;/em&gt;&amp;rdquo;, where I also joined the closing panel discussion.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Additionally, at the end of February I visited the &lt;a href=&#34;https://is.mpg.de/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Max Planck Institute for Intelligent Systems&lt;/a&gt; in Stuttgart, to speak in their 2026 Scientific Symposium.&lt;/p&gt;
+&lt;p&gt;Additionally:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;At the end of February I visited the &lt;a href=&#34;https://is.mpg.de/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Max Planck Institute for Intelligent Systems&lt;/a&gt; in Stuttgart, to speak in their 2026 Scientific Symposium.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In August I gave an invited talk on my work at the &lt;a href=&#34;https://ieee-ifetc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Flexible Electronics Technology Conference (IFETC)&lt;/a&gt; in Vancouver, where it was great to connect with an entirely new community! I also gave a keynote talk at the STEM WP Summer Internship Conference, held at Cambridge&amp;rsquo;s &lt;a href=&#34;https://www.ifm.eng.cam.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Institute for Manufacturing&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In June I gave an invited talk at the &lt;a href=&#34;https://www.hamlynsymposium.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hamlyn Symposium on Medical Robotics&lt;/a&gt;, held at the beautiful Royal Geographical Society in London.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;Next month I&amp;rsquo;ll be at &lt;a href=&#34;https://2026.ieee-icra.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICRA 2026&lt;/a&gt; in Vienna as one of the workshop organisers bringing together the community in large-area tactile sensing. Find out more &lt;a href=&#34;https://large-area-tactile-sensing.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;iframe src=&#34;https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7447398091357487105?collapsed=1&#34; height=&#34;628&#34; width=&#34;504&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;&#34; title=&#34;Embedded post&#34;&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7364245693609246720?collapsed=1&#34; height=&#34;628&#34; width=&#34;504&#34; frameborder=&#34;0&#34; allowfullscreen=&#34;&#34; title=&#34;Embedded post&#34;&gt;&lt;/iframe&gt;
 &lt;p&gt;
 
 
@@ -66,7 +78,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://dshardman.github.io/uploads/spring2.jpg&#34; alt=&#34;Talks_2&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://dshardman.github.io/uploads/hamlyn.jpeg&#34; alt=&#34;Talks_2&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;
@@ -87,7 +99,49 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://dshardman.github.io/uploads/spring3.jpeg&#34; alt=&#34;Talks_3&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://dshardman.github.io/uploads/spring2.jpg&#34; alt=&#34;Talks_3&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://dshardman.github.io/uploads/spring3.jpeg&#34; alt=&#34;Talks_4&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://dshardman.github.io/uploads/IFETC.jpg&#34; alt=&#34;Talks_5&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 </description>
