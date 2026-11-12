@@ -5,12 +5,22 @@
     <link>https://dshardman.github.io/post/</link>
       <atom:link href="https://dshardman.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Nov 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dshardman.github.io/media/icon_hu9d558420c7118401edbc78d30d177da6_214587_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://dshardman.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>New Research Video</title>
+      <link>https://dshardman.github.io/post/henslowvideo/</link>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://dshardman.github.io/post/henslowvideo/</guid>
+      <description>&lt;p&gt;Cambridge&amp;rsquo;s Philosophical Society - a scientific society founded in 1819 - have recently produced a new video highlighting my research, in which I describe the biologically inspired robotics work that forms part of my Henslow Fellowship.&lt;/p&gt;
+&lt;p&gt;You can watch this through the link below, or find out more about Henslow Fellowships &lt;a href=&#34;https://www.cambridgephilosophicalsociety.org/funding/henslow-fellowship&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;on the Philosophical Society&amp;rsquo;s website&lt;/a&gt;. A particular thank you to Graham CopeKoga, who filmed and produced this video.&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/S_IyXdYi5zo?si=wrzamuJeO1QnZGZw&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
     
     <item>
       <title>Recent Talks Roundup</title>
